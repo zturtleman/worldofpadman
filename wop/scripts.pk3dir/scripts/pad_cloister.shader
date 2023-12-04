@@ -13,7 +13,7 @@ textures/pad_fountain/utopiaatoll
 textures/pad_fountain/ground01
 {
 q3map_nonplanar
-q3map_shadeangle 60 l
+q3map_shadeangle 60
 surfaceparm sandsteps
 qer_editorimage textures/pad_fountain/ground01
 {
@@ -31,7 +31,7 @@ blendFunc filter
 textures/pad_fountain/stone_01b
 {
 q3map_nonplanar
-q3map_shadeangle 60 l
+q3map_shadeangle 60
 surfaceparm sandsteps
 qer_editorimage textures/pad_fountain/stone_01b
 {
@@ -48,7 +48,7 @@ blendFunc filter
 textures/pad_fountain/roughwall008_512
 {
 q3map_nonplanar
-q3map_shadeangle 60 l
+q3map_shadeangle 60
 surfaceparm sandsteps
 qer_editorimage textures/pad_fountain/roughwall008_512
 {

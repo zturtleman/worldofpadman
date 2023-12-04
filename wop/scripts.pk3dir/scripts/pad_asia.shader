@@ -484,7 +484,7 @@ textures/pad_teehouse/kirschbluete
 textures/pad_teehouse/matcha02
 {
 q3map_nonplanar
-q3map_shadeangle 60 l
+q3map_shadeangle 60
 qer_editorimage textures/pad_teehouse/matcha02
 surfaceparm sandsteps
 {

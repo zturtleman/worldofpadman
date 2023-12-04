@@ -33,7 +33,7 @@ textures/pad_shop/marslava
 textures/pad_shop/planetstone
 {
 q3map_nonplanar
-q3map_shadeangle 60 l
+q3map_shadeangle 60
 q3map_surfacelight 4
 qer_editorimage textures/pad_shop/planetstone
 surfaceparm nomarks
@@ -55,7 +55,7 @@ blendfunc GL_ONE GL_ONE
 textures/pad_shop/punk
 {
 q3map_nonplanar
-q3map_shadeangle 60 l
+q3map_shadeangle 60
 qer_editorimage textures/pad_shop/punk
 surfaceparm sandsteps
 {

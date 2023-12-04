@@ -894,7 +894,7 @@ tcMod scroll 0.008 -0.6
 textures/pad_garden/gardensand02
 {
 q3map_nonplanar
-q3map_shadeangle 60 l
+q3map_shadeangle 60
 surfaceparm sandsteps
 qer_editorimage textures/pad_garden/gardensand02
 {
@@ -910,7 +910,7 @@ blendFunc filter
 textures/pad_garden/sand003a
 {
 q3map_nonplanar
-q3map_shadeangle 60 l
+q3map_shadeangle 60
 surfaceparm sandsteps
 qer_editorimage textures/pad_garden/sand003a
 {
@@ -926,7 +926,7 @@ blendFunc filter
 textures/pad_garden/algen
 {
 q3map_nonplanar
-q3map_shadeangle 60 l
+q3map_shadeangle 60
 qer_editorimage textures/pad_garden/algen
 surfaceparm sandsteps
 {
@@ -943,7 +943,7 @@ blendFunc filter
 textures/pad_garden/ashes_256
 {
 q3map_nonplanar
-q3map_shadeangle 60 l
+q3map_shadeangle 60
 qer_editorimage textures/pad_garden/ashes_256
 surfaceparm sandsteps
 {
