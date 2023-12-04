@@ -4,13 +4,47 @@
 
 //file made by #@ ... don't modify it
 //spraypuff
-models/weaponsfx/spraypuff { {  map models/weaponsfx/spraypuff  blendFunc blend  rgbGen vertex  alphaGen vertex } }
+models/weaponsfx/spraypuff
+{
+	{
+		map models/weaponsfx/spraypuff
+		blendFunc blend
+		rgbGen vertex
+		alphaGen vertex
+	}
+}
 
-powerupeffect/puff { {  map powerupeffect/puff  blendFunc blend  rgbGen vertex  alphaGen vertex } }
-powerupeffect/revival { {  map powerupeffect/heart_noalpha  blendFunc add  rgbGen vertex  alphaGen vertex } }
+powerupeffect/puff
+{
+	{
+		map powerupeffect/puff
+		blendFunc blend
+		rgbGen vertex
+		alphaGen vertex
+	}
+}
+
+powerupeffect/revival
+{
+	{
+		map powerupeffect/heart_noalpha
+		blendFunc add
+		rgbGen vertex
+		alphaGen vertex
+	}
+}
 
 //spraymark ... I will use the spraypuff =)
-models/weaponsfx/spraymark { polygonoffset {  map models/weaponsfx/spraypuff  blendFunc blend  rgbGen vertex  alphaGen vertex } }
+models/weaponsfx/spraymark
+{
+	polygonoffset
+	{
+		map models/weaponsfx/spraypuff
+		blendFunc blend
+		rgbGen vertex
+		alphaGen vertex
+	}
+}
 
 // =================
 // WoP ASCII FONT
