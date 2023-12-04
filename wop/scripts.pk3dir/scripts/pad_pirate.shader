@@ -8,7 +8,7 @@ textures/pad_pirate/doornthree
 	q3map_surfacelight 230
 	{
     	alphafunc LT128
-    	map *white
+    	map $whiteimage
 	}
 }
 
