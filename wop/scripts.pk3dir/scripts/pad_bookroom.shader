@@ -1300,48 +1300,6 @@ textures/pad_wallin/wallcol26
 	}
 }
 
-textures/pad_wood/wood034
-{
-	surfaceparm woodsteps
-	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/pad_wood/wood034
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-}
-
-textures/pad_wood/wood039
-{
-	surfaceparm woodsteps
-	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/pad_wood/wood039
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-}
-
-textures/pad_wood/wood047
-{
-	surfaceparm woodsteps
-	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/pad_wood/wood047
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-}
-
 
 textures/pad_bookroom/gelaenderstre
 {

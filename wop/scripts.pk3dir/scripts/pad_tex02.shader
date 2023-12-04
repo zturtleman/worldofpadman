@@ -366,34 +366,6 @@ textures/pad_tex02/padbox6
 }
 
 
-textures/pad_maps/schrank01d
-{
-surfaceparm woodsteps
-{
-map $lightmap
-rgbGen identity
-}
-{
-map textures/pad_maps/schrank01d
-blendFunc GL_DST_COLOR GL_ZERO
-rgbGen identity
-}
-}
-
-textures/pad_maps/burgfloor001
-{
-surfaceparm woodsteps
-{
-map $lightmap
-rgbGen identity
-}
-{
-map textures/pad_maps/burgfloor001
-blendFunc GL_DST_COLOR GL_ZERO
-rgbGen identity
-}
-}
-
 textures/pad_maps/woptrailer
 {
 
