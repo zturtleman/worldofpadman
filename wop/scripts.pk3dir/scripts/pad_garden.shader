@@ -1355,21 +1355,6 @@ rgbGen identity
 }
 }
 
-textures/pad_garden/rostblack
-{
-surfaceparm metalsteps
-{
-map $lightmap
-rgbGen identity
-}
-{
-map textures/pad_garden/rostblack
-blendFunc GL_DST_COLOR GL_ZERO
-rgbGen identity
-}
-}
-
-
 textures/pad_garden/sunchairwood
 {
 surfaceparm woodsteps
@@ -1379,21 +1364,6 @@ rgbGen identity
 }
 {
 map textures/pad_garden/sunchairwood
-blendFunc GL_DST_COLOR GL_ZERO
-rgbGen identity
-}
-}
-
-
-textures/pad_garden/liegestoff02
-{
-surfaceparm carpetsteps
-{
-map $lightmap
-rgbGen identity
-}
-{
-map textures/pad_garden/liegestoff02
 blendFunc GL_DST_COLOR GL_ZERO
 rgbGen identity
 }

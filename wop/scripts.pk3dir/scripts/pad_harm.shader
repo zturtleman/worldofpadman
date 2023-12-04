@@ -391,20 +391,6 @@ textures/pad_harm/metal
      }
 }
 
-textures/pad_harm/metal06x2
-{
-   surfaceparm metalsteps
-     {
-        map $lightmap
-        rgbGen identity
-     }
-     {
-        map textures/pad_harm/metal06x2
-        blendFunc GL_DST_COLOR GL_ZERO
-        rgbGen identity
-     }
-}
-
 textures/pad_harm/sitzbank01b_white
 {
    surfaceparm softsteps

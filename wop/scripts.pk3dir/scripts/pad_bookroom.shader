@@ -1174,20 +1174,6 @@ textures/pad_bookroom/woodzier012
 	}
 }
 
-textures/pad_bookroom/woodzier001b
-{
-	surfaceparm woodsteps
-	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/pad_bookroom/woodzier001b
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-}
-
 textures/pad_bookroom/woodzier015
 {
 	surfaceparm woodsteps

@@ -999,47 +999,6 @@ textures/pad_pirate/becher2
 }
 
 
-textures/pad_pirate/klinge00
-{
-	qer_editorimage textures/pad_pirate/klinge00
-	{
-		map textures/pad_pirate/klinge00
-		rgbGen identity
-	}
-	{
-		map textures/pad_gfx02/tinpad2c
-		blendfunc add
-		rgbGen identity
-		tcGen environment
-	}
-	{
-		map $lightmap
-		blendfunc filter
-		rgbGen identity
-	}
-}
-
-textures/pad_pirate/klinge01
-{
-	qer_editorimage textures/pad_pirate/klinge01
-	{
-		map textures/pad_pirate/klinge01
-		rgbGen identity
-	}
-	{
-		map textures/pad_gfx02/tinpad2c
-		blendfunc add
-		rgbGen identity
-		tcGen environment
-	}
-	{
-		map $lightmap
-		blendfunc filter
-		rgbGen identity
-	}
-}
-
-
 textures/pad_pirate/telescope01
 {
 	qer_editorimage textures/pad_pirate/telescope01
@@ -1075,20 +1034,6 @@ rgbGen identity
 }
 }
 
-
-textures/pad_pirate/blanken01b
-{
-surfaceparm woodsteps
-{
-map $lightmap
-rgbGen identity
-}
-{
-map textures/pad_pirate/blanken01b
-blendFunc GL_DST_COLOR GL_ZERO
-rgbGen identity
-}
-}
 
 textures/pad_pirate/boarddoor
 {
@@ -1581,20 +1526,6 @@ rgbGen identity
 }
 }
 
-
-textures/pad_pirate/wood_line
-{
-surfaceparm woodsteps
-{
-map $lightmap
-rgbGen identity
-}
-{
-map textures/pad_pirate/wood_line
-blendFunc GL_DST_COLOR GL_ZERO
-rgbGen identity
-}
-}
 
 textures/pad_pirate/wood017black
 {

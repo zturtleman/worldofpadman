@@ -1670,20 +1670,6 @@ rgbGen identity
 }
 }
 
-textures/pad_wood/wood017Sbrown
-{
-surfaceparm woodsteps
-{
-map $lightmap
-rgbGen identity
-}
-{
-map textures/pad_wood/wood017Sbrown
-blendFunc GL_DST_COLOR GL_ZERO
-rgbGen identity
-}
-}
-
 textures/pad_wood/wood018
 {
 surfaceparm woodsteps
