@@ -92,7 +92,7 @@ models/weapons2/betty/betty
 		blendfunc GL_ONE GL_ZERO
 		tcMod turb 0 .2 0 .2
 		tcmod scale .4 .4
-		tcMod scroll .09 -.1.1
+		tcMod scroll .09 -.1
 		rgbGen lightingdiffuse
 	}
 	{
@@ -126,7 +126,7 @@ bettySkin_ft
 		blendfunc GL_ONE GL_ZERO
 		tcMod turb 0 .2 0 .2
 		tcmod scale .4 .4
-		tcMod scroll .09 -.1.1
+		tcMod scroll .09 -.1
 		rgbGen lightingdiffuse
 	}
 	{
@@ -197,7 +197,7 @@ models/weapons2/nipper/nipper2_trans
 		blendfunc GL_ONE GL_ZERO
                 tcMod turb 0 .2 0 .2
                 tcmod scale .4 .4
-                tcMod scroll .09 -.1.1
+                tcMod scroll .09 -.1
                 rgbGen lightingdiffuse
         }
         {
@@ -235,7 +235,7 @@ models/weapons2/nipper/nipper
 		blendfunc GL_ONE GL_ZERO
                 tcMod turb 0 .2 0 .2
                 tcmod scale .4 .4
-                tcMod scroll .09 -.1.1
+                tcMod scroll .09 -.1
                 rgbGen lightingdiffuse
         }
         {
@@ -417,7 +417,7 @@ models/weapons2/splasher/splasherwater
 		blendfunc GL_ONE GL_ZERO
                 tcMod turb 0 .6 0 .2
                 tcmod scale .4 .4
-                tcMod scroll .09 -.1.1
+                tcMod scroll .09 -.1
                 //rgbGen lightingdiffuse //identity
         }
         {
@@ -484,7 +484,7 @@ models/weapons2/bubbleg/bubbleg
 		map models/weapons2/bubbleg/bub02
 		blendfunc GL_ONE GL_ZERO
 		tcMod turb 0 .2 0 .2
-		tcMod scroll .09 -.1.1
+		tcMod scroll .09 -.1
 		rgbGen lightingdiffuse
 	}
 	{
@@ -516,7 +516,7 @@ bubblegSkin_ft
 		map models/weapons2/bubbleg/bub02_ft
 		blendfunc GL_ONE GL_ZERO
 		tcMod turb 0 .2 0 .2
-		tcMod scroll .09 -.1.1
+		tcMod scroll .09 -.1
 		rgbGen lightingdiffuse
 	}
 	{
@@ -655,7 +655,7 @@ models/weapons2/imperius/imperius
 		blendfunc GL_ONE GL_ZERO
                 tcMod turb 0 .2 0 .2
                 tcmod scale .4 .4
-                tcMod scroll .09 -.1.1
+                tcMod scroll .09 -.1
                 rgbGen lightingdiffuse
         }
         {

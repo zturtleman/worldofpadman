@@ -3574,7 +3574,7 @@ models/mapobjects/pad_actionfigures/fig_splasherwater
 		blendfunc GL_ONE GL_ZERO
 		tcMod turb 0 .6 0 .2
 		tcmod scale .4 .4
-		tcMod scroll .09 -.1.1
+		tcMod scroll .09 -.1
 		//rgbGen lightingdiffuse //identity
 	}
 	{

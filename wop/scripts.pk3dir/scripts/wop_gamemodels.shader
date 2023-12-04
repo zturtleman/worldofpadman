@@ -105,7 +105,7 @@ models/mapobjects/pad_healthstation/pad_hs_crossring
 		blendfunc GL_ONE GL_ONE
                 tcMod turb 0 .2 0 .2
                	tcmod scale .4 .4
-                tcMod scroll .09 -.1.1
+                tcMod scroll .09 -.1
                 rgbGen lightingdiffuse
         }
         {
